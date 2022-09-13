@@ -1,0 +1,15 @@
+/Users/annagolikova/С# семинар 7/C# 7 seminar/bin/Debug/net6.0/C# 7 seminar
+/Users/annagolikova/С# семинар 7/C# 7 seminar/bin/Debug/net6.0/C# 7 seminar.deps.json
+/Users/annagolikova/С# семинар 7/C# 7 seminar/bin/Debug/net6.0/C# 7 seminar.runtimeconfig.json
+/Users/annagolikova/С# семинар 7/C# 7 seminar/bin/Debug/net6.0/C# 7 seminar.dll
+/Users/annagolikova/С# семинар 7/C# 7 seminar/bin/Debug/net6.0/C# 7 seminar.pdb
+/Users/annagolikova/С# семинар 7/C# 7 seminar/obj/Debug/net6.0/C# 7 seminar.csproj.AssemblyReference.cache
+/Users/annagolikova/С# семинар 7/C# 7 seminar/obj/Debug/net6.0/C# 7 seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annagolikova/С# семинар 7/C# 7 seminar/obj/Debug/net6.0/C# 7 seminar.AssemblyInfoInputs.cache
+/Users/annagolikova/С# семинар 7/C# 7 seminar/obj/Debug/net6.0/C# 7 seminar.AssemblyInfo.cs
+/Users/annagolikova/С# семинар 7/C# 7 seminar/obj/Debug/net6.0/C# 7 seminar.csproj.CoreCompileInputs.cache
+/Users/annagolikova/С# семинар 7/C# 7 seminar/obj/Debug/net6.0/C# 7 seminar.dll
+/Users/annagolikova/С# семинар 7/C# 7 seminar/obj/Debug/net6.0/refint/C# 7 seminar.dll
+/Users/annagolikova/С# семинар 7/C# 7 seminar/obj/Debug/net6.0/C# 7 seminar.pdb
+/Users/annagolikova/С# семинар 7/C# 7 seminar/obj/Debug/net6.0/C# 7 seminar.genruntimeconfig.cache
+/Users/annagolikova/С# семинар 7/C# 7 seminar/obj/Debug/net6.0/ref/C# 7 seminar.dll
